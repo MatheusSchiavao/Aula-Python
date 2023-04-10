@@ -1,0 +1,36 @@
+-> O que é programação? [x]
+
+-> Ambientes Virtuais [x]
+
+  #Windows: venv\Scripts\Activate
+  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+-> Variáveis [x]
+  -> int: 10, 1000, 9000, -2, -2500
+  -> float: 10.5, 150.543, 1000.1, -2.5
+  -> string: 'Matheus', 'Aula no Youtube', 'VSCode', '10'
+  -> bool: True or False
+
+-> Saída de dados [x]
+
+-> Entrada de dados [x]
+
+-> Conversão de dados [x]
+
+-> Operadores matemáticos ( + - * ** / // % ) [x]
+
+-> Operadores relacionais ( == > < >= <= ) [x]
+
+-> Operadores lógicos ( and or not ) [x]
+
+-> Estrutura de decisão ( if else elif ) [x]
+
+-> Estrutura de repetição [x]
+    -> While
+    -> For
+
+-> Estrutura de dados [x]
+    -> Listas
+    -> Dicionários
+
+-> Funções [x]
